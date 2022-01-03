@@ -1,1 +1,23 @@
-Body {background-color: white; }
+Body 
+{background-color: aqua;
+font-size:          25px;
+ }
+ h1 {text-align: center;
+    background-color: green;
+{ display: inline;}
+h2{
+        display: inline; 
+        float: left;
+        font-size: 15px;            }
+ul{
+    display: inline;
+    list-style-type: none;
+li {display: inline;  }
+
+
+
+
+
+}
+
+
