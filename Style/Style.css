@@ -1,23 +1,72 @@
-Body 
-{background-color: whitesmoke;
-font-size:          25px;
- }
- h1 {text-align: center;
-    background-color: lightgreen;
-{ display: inline;}
-h2{
-        display: inline; 
-        float: left;
-        font-size: 15px;            }
-ul{
-    display: inline;
-    list-style-type: none;
-li {display: inline;  }
+
+header {                text-align: center;
+                        color: white;
+                        margin-bottom: 5px; 
+                        background-size:cover;
+                        background:no-repeat;
+                        padding-bottom:400px;
+                        margin: top 1000px;
+                        font-size: 100px;
+                        border:5px solid black;
+
+        
+}
+.nav{               text-align: center;
+                    font-size: 30px;
+                    color: white;
+                    padding-top: 50px;
+                    border: 0px solid white;
+                    padding-bottom: 10px;
+                    padding-top: 50px;
+                    
+}
+.title{color: white;}
+main            {max-width: 1250px;display: inline-block;text-align: left;margin-left:15%;mar}
+img             {width: 150px;border-radius: 50%;padding-top:15px}
+
+.matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+.angadh-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block}
+.maddison-info  {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+.beau-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+.cameron-info   {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+.kieran-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
 
 
 
 
 
 }
+
+
+
+
+
+personal.profile.section{  
+                        font-size: 12px;
+                    
+                    
+                    
+                    
+                    
+} 
+                            
+
+
+
+
+
+
+
+
+h1{                 text-align:                     center;
+                    background-color:            #008000;         
+}
+
+
+Body{               background-color:          whitesmoke;
+                        font-size:                  25px;
+
+
+    }
 
 
