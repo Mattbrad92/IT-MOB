@@ -20,11 +20,14 @@ header {                text-align: center;
                     padding-top: 50px;
                     
 }
-.title{color: white;}
-main            {max-width: 1250px;display: inline-block;text-align: left;margin-left:15%;mar}
-img             {width: 150px;border-radius: 50%;padding-top:15px}
 
-.matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+
+
+.title          {color: white;}
+main            {max-width: 1250px;display: inline-block;text-align: left;margin-left:15%;mar}
+img             {width: 200px;border-radius: 50%;padding-top:15px;height: 200px;}
+
+.matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;caption-side: ;}
 .angadh-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block}
 .maddison-info  {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
 .beau-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
